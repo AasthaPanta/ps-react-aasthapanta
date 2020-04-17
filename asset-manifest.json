@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.f54d1872.chunk.css",
-    "main.js": "/static/js/main.78991c9f.chunk.js",
-    "main.js.map": "/static/js/main.78991c9f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8cd38edd.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8cd38edd.js.map",
-    "static/css/2.52738377.chunk.css": "/static/css/2.52738377.chunk.css",
-    "static/js/2.e73e8493.chunk.js": "/static/js/2.e73e8493.chunk.js",
-    "static/js/2.e73e8493.chunk.js.map": "/static/js/2.e73e8493.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c8b9a16d21dd37d719d52e0fa87234c9.js": "/precache-manifest.c8b9a16d21dd37d719d52e0fa87234c9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.52738377.chunk.css.map": "/static/css/2.52738377.chunk.css.map",
-    "static/css/main.f54d1872.chunk.css.map": "/static/css/main.f54d1872.chunk.css.map",
-    "static/js/2.e73e8493.chunk.js.LICENSE.txt": "/static/js/2.e73e8493.chunk.js.LICENSE.txt"
+    "main.css": "/ps-react-aasthapanta/static/css/main.f54d1872.chunk.css",
+    "main.js": "/ps-react-aasthapanta/static/js/main.7e373474.chunk.js",
+    "main.js.map": "/ps-react-aasthapanta/static/js/main.7e373474.chunk.js.map",
+    "runtime-main.js": "/ps-react-aasthapanta/static/js/runtime-main.cf75ebd0.js",
+    "runtime-main.js.map": "/ps-react-aasthapanta/static/js/runtime-main.cf75ebd0.js.map",
+    "static/css/2.52738377.chunk.css": "/ps-react-aasthapanta/static/css/2.52738377.chunk.css",
+    "static/js/2.e73e8493.chunk.js": "/ps-react-aasthapanta/static/js/2.e73e8493.chunk.js",
+    "static/js/2.e73e8493.chunk.js.map": "/ps-react-aasthapanta/static/js/2.e73e8493.chunk.js.map",
+    "index.html": "/ps-react-aasthapanta/index.html",
+    "precache-manifest.aaddf5b4f25ad631dc5014a8491a8b1b.js": "/ps-react-aasthapanta/precache-manifest.aaddf5b4f25ad631dc5014a8491a8b1b.js",
+    "service-worker.js": "/ps-react-aasthapanta/service-worker.js",
+    "static/css/2.52738377.chunk.css.map": "/ps-react-aasthapanta/static/css/2.52738377.chunk.css.map",
+    "static/css/main.f54d1872.chunk.css.map": "/ps-react-aasthapanta/static/css/main.f54d1872.chunk.css.map",
+    "static/js/2.e73e8493.chunk.js.LICENSE.txt": "/ps-react-aasthapanta/static/js/2.e73e8493.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8cd38edd.js",
+    "static/js/runtime-main.cf75ebd0.js",
     "static/css/2.52738377.chunk.css",
     "static/js/2.e73e8493.chunk.js",
     "static/css/main.f54d1872.chunk.css",
-    "static/js/main.78991c9f.chunk.js"
+    "static/js/main.7e373474.chunk.js"
   ]
 }
